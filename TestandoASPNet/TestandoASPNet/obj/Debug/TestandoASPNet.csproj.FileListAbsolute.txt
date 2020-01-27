@@ -1,0 +1,164 @@
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\TestandoASPNet.dll.config
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\TestandoASPNet.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\TestandoASPNet.pdb
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\csc.exe
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\csc.exe.config
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\csc.rsp
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\csi.exe
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\csi.exe.config
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\csi.rsp
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.AppContext.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Console.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Net.Http.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\vbc.exe
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\vbc.exe.config
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\vbc.rsp
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\Antlr3.Runtime.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\Newtonsoft.Json.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.Helpers.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.Mvc.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.Optimization.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.Razor.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.WebPages.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\WebGrease.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.Helpers.xml
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.Mvc.xml
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.Optimization.xml
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.Razor.xml
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.WebPages.xml
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\Newtonsoft.Json.xml
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\Antlr3.Runtime.pdb
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\obj\Debug\TestandoASPNet.csprojAssemblyReference.cache
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\obj\Debug\TestandoASPNet.csproj.CopyComplete
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\obj\Debug\TestandoASPNet.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\obj\Debug\TestandoASPNet.pdb
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\EntityFramework.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\EntityFramework.SqlServer.dll
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\EntityFramework.xml
+C:\Users\ACPA\source\repos\TestandoASPNet\TestandoASPNet\bin\EntityFramework.SqlServer.xml
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\TestandoASPNet.dll.config
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\TestandoASPNet.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\TestandoASPNet.pdb
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\csc.exe
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\csc.exe.config
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\csc.rsp
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\csi.exe
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\csi.exe.config
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\csi.rsp
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.AppContext.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Collections.Immutable.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Console.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Globalization.Calendars.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.IO.Compression.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.IO.FileSystem.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Net.Http.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Net.Sockets.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Reflection.Metadata.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.ValueTuple.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Xml.XPath.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\vbc.exe
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\vbc.exe.config
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\vbc.rsp
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\VBCSCompiler.exe
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\roslyn\VBCSCompiler.exe.config
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\Antlr3.Runtime.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\EntityFramework.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\EntityFramework.SqlServer.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\Microsoft.Web.Infrastructure.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\Newtonsoft.Json.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.Helpers.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.Mvc.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.Optimization.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.Razor.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.WebPages.Deployment.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.WebPages.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.WebPages.Razor.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\WebGrease.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\EntityFramework.xml
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\EntityFramework.SqlServer.xml
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.Helpers.xml
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.Mvc.xml
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.Optimization.xml
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.Razor.xml
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.WebPages.xml
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.WebPages.Deployment.xml
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\System.Web.WebPages.Razor.xml
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\Newtonsoft.Json.xml
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\Antlr3.Runtime.pdb
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\obj\Debug\TestandoASPNet.csprojAssemblyReference.cache
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\obj\Debug\TestandoASPNet.csproj.CopyComplete
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\obj\Debug\TestandoASPNet.dll
+D:\CSharp Projects\AulaMVC-ASP.NET--master\TestandoASPNet\TestandoASPNet\obj\Debug\TestandoASPNet.pdb
